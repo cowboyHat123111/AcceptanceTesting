@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\bin\Debug\net7.0\Find the odd int.exe
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\bin\Debug\net7.0\Find the odd int.deps.json
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\bin\Debug\net7.0\Find the odd int.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\bin\Debug\net7.0\Find the odd int.dll
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\bin\Debug\net7.0\Find the odd int.pdb
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\Find the odd int.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\Find the odd int.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\Find the odd int.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\Find the odd int.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\Find the odd int.dll
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\refint\Find the odd int.dll
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\Find the odd int.pdb
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\Find the odd int.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Find the odd int\Find the odd int\obj\Debug\net7.0\ref\Find the odd int.dll
